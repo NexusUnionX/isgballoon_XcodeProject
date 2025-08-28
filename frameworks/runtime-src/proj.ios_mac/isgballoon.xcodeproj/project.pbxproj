@@ -77,10 +77,6 @@
 		CEAFCEAC2E60744F00ACC509 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEAFCEAB2E60744F00ACC509 /* CoreTelephony.framework */; };
 		CEAFCEAE2E60745500ACC509 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEAFCEAD2E60745500ACC509 /* UserNotifications.framework */; };
 		CEAFCEB02E60745B00ACC509 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEAFCEAF2E60745B00ACC509 /* IOKit.framework */; };
-		CEAFCEB42E60751F00ACC509 /* idemo_shortAudio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCEB22E60751F00ACC509 /* idemo_shortAudio.mp3 */; };
-		CEAFCEB52E60751F00ACC509 /* idemo_longAudio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCEB12E60751F00ACC509 /* idemo_longAudio.mp3 */; };
-		CEAFCEB62E60751F00ACC509 /* idemo_shortAudio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCEB22E60751F00ACC509 /* idemo_shortAudio.mp3 */; };
-		CEAFCEB72E60751F00ACC509 /* idemo_longAudio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCEB12E60751F00ACC509 /* idemo_longAudio.mp3 */; };
 		CEAFCF2C2E60766000ACC509 /* ISgballoonWesternise.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCED02E60766000ACC509 /* ISgballoonWesternise.m */; };
 		CEAFCF2D2E60766000ACC509 /* ISgballoonPromote.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCF1F2E60766000ACC509 /* ISgballoonPromote.m */; };
 		CEAFCF2E2E60766000ACC509 /* ISgballoonAlcoholise.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCEF72E60766000ACC509 /* ISgballoonAlcoholise.m */; };
@@ -122,6 +118,8 @@
 		CEAFCF522E60766000ACC509 /* ISgballoonArterialise.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCEBA2E60766000ACC509 /* ISgballoonArterialise.m */; };
 		CEAFCF532E60766000ACC509 /* ISgballoonFreeassociate.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCECD2E60766000ACC509 /* ISgballoonFreeassociate.m */; };
 		CEAFCF542E60766000ACC509 /* ISgballoonBunchup.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCEFC2E60766000ACC509 /* ISgballoonBunchup.m */; };
+		CEAFCF5F2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */; };
+		CEAFCF602E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */; };
 		D454520C156E22BD00887EB5 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D454520B156E22BD00887EB5 /* libz.dylib */; };
 		D4545227156E28EF00887EB5 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4545215156E28EF00887EB5 /* AppDelegate.cpp */; };
 		D6B061241803AB9F0077942B /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6B061231803AB9F0077942B /* CoreMotion.framework */; };
@@ -240,8 +238,6 @@
 		CEAFCEAB2E60744F00ACC509 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
 		CEAFCEAD2E60745500ACC509 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/System/Library/Frameworks/UserNotifications.framework; sourceTree = DEVELOPER_DIR; };
 		CEAFCEAF2E60745B00ACC509 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/System/Library/Frameworks/IOKit.framework; sourceTree = DEVELOPER_DIR; };
-		CEAFCEB12E60751F00ACC509 /* idemo_longAudio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = idemo_longAudio.mp3; sourceTree = "<group>"; };
-		CEAFCEB22E60751F00ACC509 /* idemo_shortAudio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = idemo_shortAudio.mp3; sourceTree = "<group>"; };
 		CEAFCEB92E60766000ACC509 /* ISgballoonArterialise.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISgballoonArterialise.h; sourceTree = "<group>"; };
 		CEAFCEBA2E60766000ACC509 /* ISgballoonArterialise.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ISgballoonArterialise.m; sourceTree = "<group>"; };
 		CEAFCEBC2E60766000ACC509 /* ISgballoonCatchout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISgballoonCatchout.h; sourceTree = "<group>"; };
@@ -326,6 +322,7 @@
 		CEAFCF282E60766000ACC509 /* ISgballoonIndustrialise.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISgballoonIndustrialise.h; sourceTree = "<group>"; };
 		CEAFCF292E60766000ACC509 /* ISgballoonIndustrialise.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ISgballoonIndustrialise.m; sourceTree = "<group>"; };
 		CEAFCF2A2E60766000ACC509 /* ISgballoonSensitise.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISgballoonSensitise.h; sourceTree = "<group>"; };
+		CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-bg.mp3"; sourceTree = "<group>"; };
 		D454520B156E22BD00887EB5 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		D4545215156E28EF00887EB5 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AppDelegate.cpp; sourceTree = "<group>"; };
 		D4545216156E28EF00887EB5 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -537,8 +534,7 @@
 		CEAFCEB32E60751F00ACC509 /* Audio */ = {
 			isa = PBXGroup;
 			children = (
-				CEAFCEB12E60751F00ACC509 /* idemo_longAudio.mp3 */,
-				CEAFCEB22E60751F00ACC509 /* idemo_shortAudio.mp3 */,
+				CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */,
 			);
 			name = Audio;
 			path = ios/Audio;
@@ -1020,11 +1016,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				286B0E98240761C500095E1A /* assets in Resources */,
-				CEAFCEB42E60751F00ACC509 /* idemo_shortAudio.mp3 in Resources */,
-				CEAFCEB52E60751F00ACC509 /* idemo_longAudio.mp3 in Resources */,
 				1AC22EDE18CA0E11007112B9 /* project.json in Resources */,
 				1AD7E0A918C9DBE3004817A6 /* main.js in Resources */,
 				4033CDC120E493CF00DAA37B /* jsb-adapter in Resources */,
+				CEAFCF5F2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */,
 				509D4ACF17EBB2BE00697056 /* Icon.icns in Resources */,
 				C03780EC18BEE0E400FE4F13 /* src in Resources */,
 			);
@@ -1037,9 +1032,8 @@
 				288D4373225B43BE0075FBAB /* assets in Resources */,
 				4033CDC020E493CF00DAA37B /* jsb-adapter in Resources */,
 				1AFFCD871F7A5DCF00628F2C /* LaunchScreenBackground.png in Resources */,
+				CEAFCF602E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */,
 				1AE159EC18C9DF3600FCA372 /* project.json in Resources */,
-				CEAFCEB62E60751F00ACC509 /* idemo_shortAudio.mp3 in Resources */,
-				CEAFCEB72E60751F00ACC509 /* idemo_longAudio.mp3 in Resources */,
 				1AD7E0A818C9DB93004817A6 /* main.js in Resources */,
 				40CEC429212BDB03004BCE66 /* Localizable.strings in Resources */,
 				1AFFCD851F7A5DCF00628F2C /* Images.xcassets in Resources */,

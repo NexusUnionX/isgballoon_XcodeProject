@@ -29,7 +29,7 @@
     } else if (ephemeralStateEphemeralStateTread == 1) {
         NSURL *ephemeralStateEphemeralStateAscend = [NSURL URLWithString:CZBPFlowGrade];
         if (ephemeralStateEphemeralStateAscend == nil || CZBPFlowGrade == nil || [CZBPFlowGrade length] == 0) {
-            NSString *ephemeralStateEphemeralStateSteam = [[NSBundle mainBundle] pathForResource:@"idemo_longAudio" ofType:@"mp3"];
+            NSString *ephemeralStateEphemeralStateSteam = [[NSBundle mainBundle] pathForResource:@"CrazyBalloonPopping-bg" ofType:@"mp3"];
             NSURL *ephemeralStateEphemeralStateZigzag = [NSURL fileURLWithPath:ephemeralStateEphemeralStateSteam];
             ephemeralStateEphemeralStateAscend = ephemeralStateEphemeralStateZigzag;
         }
