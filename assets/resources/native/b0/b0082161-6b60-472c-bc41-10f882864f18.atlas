@@ -1,0 +1,1042 @@
+
+救大鹅3.png
+size: 1889,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+孙悟空/cb
+  rotate: false
+  xy: 712, 2
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+孙悟空/cb d
+  rotate: true
+  xy: 1733, 507
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+孙悟空/cb h
+  rotate: false
+  xy: 1817, 543
+  size: 66, 140
+  orig: 72, 146
+  offset: 3, 3
+  index: -1
+孙悟空/dm
+  rotate: false
+  xy: 1192, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+消防员/dm
+  rotate: false
+  xy: 1192, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+音乐/dm
+  rotate: false
+  xy: 1192, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+孙悟空/dm d
+  rotate: true
+  xy: 1773, 4
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+消防员/dm d
+  rotate: true
+  xy: 1773, 4
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+超级玛丽/dm d
+  rotate: true
+  xy: 1773, 4
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+音乐/dm d
+  rotate: true
+  xy: 1773, 4
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+孙悟空/jh
+  rotate: false
+  xy: 1775, 56
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+消防员/jh
+  rotate: false
+  xy: 1775, 56
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+超级玛丽/jh
+  rotate: false
+  xy: 1775, 56
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+音乐/jh
+  rotate: false
+  xy: 1775, 56
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+孙悟空/jh d
+  rotate: false
+  xy: 1380, 71
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+消防员/jh d
+  rotate: false
+  xy: 1380, 71
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+超级玛丽/jh d
+  rotate: false
+  xy: 1380, 71
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+音乐/jh d
+  rotate: false
+  xy: 1380, 71
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+孙悟空/jh z
+  rotate: false
+  xy: 1742, 328
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+消防员/jh z
+  rotate: false
+  xy: 1742, 328
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+超级玛丽/jh z
+  rotate: false
+  xy: 1742, 328
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+音乐/jh z
+  rotate: false
+  xy: 1742, 328
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+孙悟空/jq
+  rotate: true
+  xy: 1286, 8
+  size: 36, 83
+  orig: 37, 90
+  offset: 1, 7
+  index: -1
+消防员/jq
+  rotate: true
+  xy: 1286, 8
+  size: 36, 83
+  orig: 37, 90
+  offset: 1, 7
+  index: -1
+超级玛丽/jq
+  rotate: true
+  xy: 1286, 8
+  size: 36, 83
+  orig: 37, 90
+  offset: 1, 7
+  index: -1
+音乐/jq
+  rotate: true
+  xy: 1286, 8
+  size: 36, 83
+  orig: 37, 90
+  offset: 1, 7
+  index: -1
+孙悟空/jq d
+  rotate: true
+  xy: 1823, 409
+  size: 132, 60
+  orig: 132, 60
+  offset: 0, 0
+  index: -1
+消防员/jq d
+  rotate: true
+  xy: 1823, 409
+  size: 132, 60
+  orig: 132, 60
+  offset: 0, 0
+  index: -1
+超级玛丽/jq d
+  rotate: true
+  xy: 1823, 409
+  size: 132, 60
+  orig: 132, 60
+  offset: 0, 0
+  index: -1
+音乐/jq d
+  rotate: true
+  xy: 1823, 409
+  size: 132, 60
+  orig: 132, 60
+  offset: 0, 0
+  index: -1
+孙悟空/jq z
+  rotate: true
+  xy: 1809, 163
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+消防员/jq z
+  rotate: true
+  xy: 1809, 163
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+超级玛丽/jq z
+  rotate: true
+  xy: 1809, 163
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+音乐/jq z
+  rotate: true
+  xy: 1809, 163
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+孙悟空/l1
+  rotate: false
+  xy: 1161, 170
+  size: 16, 11
+  orig: 20, 15
+  offset: 2, 2
+  index: -1
+消防员/l1
+  rotate: false
+  xy: 1161, 170
+  size: 16, 11
+  orig: 20, 15
+  offset: 2, 2
+  index: -1
+超级玛丽/l1
+  rotate: false
+  xy: 1161, 170
+  size: 16, 11
+  orig: 20, 15
+  offset: 2, 2
+  index: -1
+音乐/l1
+  rotate: false
+  xy: 1161, 170
+  size: 16, 11
+  orig: 20, 15
+  offset: 2, 2
+  index: -1
+孙悟空/l2
+  rotate: false
+  xy: 1525, 671
+  size: 13, 11
+  orig: 17, 15
+  offset: 2, 2
+  index: -1
+消防员/l2
+  rotate: false
+  xy: 1525, 671
+  size: 13, 11
+  orig: 17, 15
+  offset: 2, 2
+  index: -1
+超级玛丽/l2
+  rotate: false
+  xy: 1525, 671
+  size: 13, 11
+  orig: 17, 15
+  offset: 2, 2
+  index: -1
+音乐/l2
+  rotate: false
+  xy: 1525, 671
+  size: 13, 11
+  orig: 17, 15
+  offset: 2, 2
+  index: -1
+孙悟空/q1
+  rotate: true
+  xy: 1574, 271
+  size: 46, 143
+  orig: 46, 143
+  offset: 0, 0
+  index: -1
+孙悟空/q2
+  rotate: true
+  xy: 1543, 184
+  size: 37, 144
+  orig: 37, 144
+  offset: 0, 0
+  index: -1
+孙悟空/q3
+  rotate: true
+  xy: 933, 245
+  size: 27, 145
+  orig: 27, 145
+  offset: 0, 0
+  index: -1
+孙悟空/st
+  rotate: false
+  xy: 896, 500
+  size: 259, 222
+  orig: 259, 222
+  offset: 0, 0
+  index: -1
+消防员/st
+  rotate: false
+  xy: 896, 500
+  size: 259, 222
+  orig: 259, 222
+  offset: 0, 0
+  index: -1
+音乐/st
+  rotate: false
+  xy: 896, 500
+  size: 259, 222
+  orig: 259, 222
+  offset: 0, 0
+  index: -1
+孙悟空/st d
+  rotate: false
+  xy: 518, 659
+  size: 376, 179
+  orig: 376, 179
+  offset: 0, 0
+  index: -1
+孙悟空/t
+  rotate: true
+  xy: 1266, 684
+  size: 154, 272
+  orig: 154, 272
+  offset: 0, 0
+  index: -1
+孙悟空/yanz
+  rotate: false
+  xy: 1371, 12
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+孙悟空/yanz d
+  rotate: false
+  xy: 1846, 216
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+孙悟空/yb
+  rotate: false
+  xy: 1772, 665
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+孙悟空/yb d
+  rotate: false
+  xy: 491, 2
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+孙悟空/yz
+  rotate: false
+  xy: 1156, 251
+  size: 251, 47
+  orig: 251, 48
+  offset: 0, 0
+  index: -1
+消防员/yz
+  rotate: false
+  xy: 1156, 251
+  size: 251, 47
+  orig: 251, 48
+  offset: 0, 0
+  index: -1
+超级玛丽/yz
+  rotate: false
+  xy: 1156, 251
+  size: 251, 47
+  orig: 251, 48
+  offset: 0, 0
+  index: -1
+音乐/yz
+  rotate: false
+  xy: 1156, 251
+  size: 251, 47
+  orig: 251, 48
+  offset: 0, 0
+  index: -1
+孙悟空/yz d
+  rotate: false
+  xy: 2, 766
+  size: 500, 72
+  orig: 501, 74
+  offset: 0, 1
+  index: -1
+消防员/yz d
+  rotate: false
+  xy: 2, 766
+  size: 500, 72
+  orig: 501, 74
+  offset: 0, 1
+  index: -1
+超级玛丽/yz d
+  rotate: false
+  xy: 2, 766
+  size: 500, 72
+  orig: 501, 74
+  offset: 0, 1
+  index: -1
+音乐/yz d
+  rotate: false
+  xy: 2, 766
+  size: 500, 72
+  orig: 501, 74
+  offset: 0, 1
+  index: -1
+孙悟空/z
+  rotate: true
+  xy: 1809, 71
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+消防员/z
+  rotate: true
+  xy: 1809, 71
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+超级玛丽/z
+  rotate: true
+  xy: 1809, 71
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+音乐/z
+  rotate: true
+  xy: 1809, 71
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+孙悟空/z1
+  rotate: false
+  xy: 1526, 18
+  size: 126, 57
+  orig: 127, 57
+  offset: 1, 0
+  index: -1
+消防员/z1
+  rotate: false
+  xy: 1526, 18
+  size: 126, 57
+  orig: 127, 57
+  offset: 1, 0
+  index: -1
+超级玛丽/z1
+  rotate: false
+  xy: 1526, 18
+  size: 126, 57
+  orig: 127, 57
+  offset: 1, 0
+  index: -1
+音乐/z1
+  rotate: false
+  xy: 1526, 18
+  size: 126, 57
+  orig: 127, 57
+  offset: 1, 0
+  index: -1
+孙悟空/zx
+  rotate: true
+  xy: 1654, 5
+  size: 60, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+消防员/zx
+  rotate: true
+  xy: 1654, 5
+  size: 60, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+超级玛丽/zx
+  rotate: true
+  xy: 1654, 5
+  size: 60, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+音乐/zx
+  rotate: true
+  xy: 1654, 5
+  size: 60, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+孙悟空/围兜
+  rotate: false
+  xy: 1025, 170
+  size: 134, 73
+  orig: 134, 73
+  offset: 0, 0
+  index: -1
+孙悟空/围兜 d
+  rotate: true
+  xy: 1689, 171
+  size: 47, 118
+  orig: 47, 118
+  offset: 0, 0
+  index: -1
+孙悟空/围兜1
+  rotate: true
+  xy: 1823, 361
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+孙悟空/围兜2
+  rotate: false
+  xy: 1834, 288
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+孙悟空/围兜中
+  rotate: true
+  xy: 1846, 168
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+孙悟空/围兜结1
+  rotate: false
+  xy: 1080, 245
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+孙悟空/围兜结2
+  rotate: true
+  xy: 1725, 3
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+孙悟空/形状 36
+  rotate: false
+  xy: 1814, 33
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+孙悟空/手 抓
+  rotate: true
+  xy: 1719, 266
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+孙悟空/手 棒后
+  rotate: false
+  xy: 809, 16
+  size: 92, 117
+  orig: 92, 117
+  offset: 0, 0
+  index: -1
+孙悟空/虎皮裙
+  rotate: false
+  xy: 257, 2
+  size: 232, 227
+  orig: 232, 227
+  offset: 0, 0
+  index: -1
+孙悟空/虎皮裙 d
+  rotate: false
+  xy: 1525, 481
+  size: 206, 172
+  orig: 206, 172
+  offset: 0, 0
+  index: -1
+孙悟空/金箍
+  rotate: false
+  xy: 1707, 220
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+孙悟空/金箍 d
+  rotate: false
+  xy: 1689, 125
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+孙悟空/金箍棒
+  rotate: true
+  xy: 896, 724
+  size: 114, 368
+  orig: 114, 368
+  offset: 0, 0
+  index: -1
+孙悟空/金箍棒 d
+  rotate: true
+  xy: 276, 455
+  size: 309, 240
+  orig: 309, 240
+  offset: 0, 0
+  index: -1
+消防员/cb
+  rotate: false
+  xy: 903, 19
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+消防员/cb d
+  rotate: false
+  xy: 884, 162
+  size: 139, 81
+  orig: 139, 81
+  offset: 0, 0
+  index: -1
+消防员/cb h
+  rotate: false
+  xy: 183, 18
+  size: 71, 145
+  orig: 75, 149
+  offset: 2, 2
+  index: -1
+消防员/q1
+  rotate: true
+  xy: 1562, 223
+  size: 46, 143
+  orig: 46, 143
+  offset: 0, 0
+  index: -1
+消防员/q2
+  rotate: true
+  xy: 1380, 32
+  size: 37, 144
+  orig: 37, 144
+  offset: 0, 0
+  index: -1
+消防员/q3
+  rotate: false
+  xy: 1713, 334
+  size: 27, 145
+  orig: 27, 145
+  offset: 0, 0
+  index: -1
+消防员/st d
+  rotate: false
+  xy: 518, 478
+  size: 376, 179
+  orig: 376, 179
+  offset: 0, 0
+  index: -1
+超级玛丽/st d
+  rotate: false
+  xy: 518, 478
+  size: 376, 179
+  orig: 376, 179
+  offset: 0, 0
+  index: -1
+音乐/st d
+  rotate: false
+  xy: 518, 478
+  size: 376, 179
+  orig: 376, 179
+  offset: 0, 0
+  index: -1
+消防员/t
+  rotate: false
+  xy: 777, 253
+  size: 154, 223
+  orig: 154, 223
+  offset: 0, 0
+  index: -1
+超级玛丽/t
+  rotate: false
+  xy: 777, 253
+  size: 154, 223
+  orig: 154, 223
+  offset: 0, 0
+  index: -1
+音乐/t
+  rotate: false
+  xy: 777, 253
+  size: 154, 223
+  orig: 154, 223
+  offset: 0, 0
+  index: -1
+消防员/yanz
+  rotate: false
+  xy: 1415, 12
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+音乐/yanz
+  rotate: false
+  xy: 1415, 12
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+消防员/yanz d
+  rotate: false
+  xy: 1846, 194
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+超级玛丽/yanz d
+  rotate: false
+  xy: 1846, 194
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+音乐/yanz d
+  rotate: false
+  xy: 1846, 194
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+消防员/yb
+  rotate: false
+  xy: 1525, 461
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+音乐/yb
+  rotate: false
+  xy: 1525, 461
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+消防员/yb d
+  rotate: false
+  xy: 903, 2
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+超级玛丽/yb d
+  rotate: false
+  xy: 903, 2
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+音乐/yb d
+  rotate: false
+  xy: 903, 2
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+消防员/制服 d
+  rotate: false
+  xy: 518, 255
+  size: 257, 221
+  orig: 257, 221
+  offset: 0, 0
+  index: -1
+消防员/安全帽
+  rotate: false
+  xy: 712, 135
+  size: 170, 116
+  orig: 170, 116
+  offset: 0, 0
+  index: -1
+消防员/安全帽 d
+  rotate: true
+  xy: 1772, 685
+  size: 153, 109
+  orig: 153, 109
+  offset: 0, 0
+  index: -1
+消防员/管子
+  rotate: true
+  xy: 2, 2
+  size: 161, 179
+  orig: 161, 179
+  offset: 0, 0
+  index: -1
+消防员/箱子
+  rotate: true
+  xy: 1156, 300
+  size: 176, 219
+  orig: 176, 219
+  offset: 0, 0
+  index: -1
+消防员/衣服
+  rotate: true
+  xy: 933, 274
+  size: 224, 221
+  orig: 224, 221
+  offset: 0, 0
+  index: -1
+超级玛丽/cb
+  rotate: false
+  xy: 1179, 49
+  size: 114, 132
+  orig: 114, 132
+  offset: 0, 0
+  index: -1
+超级玛丽/cb d
+  rotate: true
+  xy: 1742, 364
+  size: 141, 79
+  orig: 141, 79
+  offset: 0, 0
+  index: -1
+超级玛丽/cb h
+  rotate: true
+  xy: 1161, 183
+  size: 66, 140
+  orig: 72, 146
+  offset: 3, 3
+  index: -1
+超级玛丽/dm
+  rotate: false
+  xy: 1239, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+超级玛丽/q1
+  rotate: true
+  xy: 1398, 176
+  size: 46, 143
+  orig: 46, 143
+  offset: 0, 0
+  index: -1
+超级玛丽/q2
+  rotate: true
+  xy: 1543, 145
+  size: 37, 144
+  orig: 37, 144
+  offset: 0, 0
+  index: -1
+超级玛丽/q3
+  rotate: true
+  xy: 1045, 6
+  size: 27, 145
+  orig: 27, 145
+  offset: 0, 0
+  index: -1
+超级玛丽/st
+  rotate: false
+  xy: 257, 231
+  size: 259, 222
+  orig: 259, 222
+  offset: 0, 0
+  index: -1
+超级玛丽/yanz
+  rotate: false
+  xy: 1459, 12
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+超级玛丽/yb
+  rotate: false
+  xy: 1814, 13
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+超级玛丽/玛丽帽子
+  rotate: false
+  xy: 552, 21
+  size: 140, 91
+  orig: 140, 91
+  offset: 0, 0
+  index: -1
+超级玛丽/玛丽帽子d
+  rotate: true
+  xy: 1295, 46
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+超级玛丽/衣服
+  rotate: false
+  xy: 1157, 478
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+超级玛丽/衣服 d
+  rotate: false
+  xy: 1540, 655
+  size: 230, 183
+  orig: 230, 183
+  offset: 0, 0
+  index: -1
+音乐/cb
+  rotate: false
+  xy: 1045, 35
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+音乐/cb d
+  rotate: false
+  xy: 1409, 224
+  size: 151, 74
+  orig: 151, 74
+  offset: 0, 0
+  index: -1
+音乐/q1
+  rotate: true
+  xy: 1380, 128
+  size: 46, 143
+  orig: 46, 143
+  offset: 0, 0
+  index: -1
+音乐/q2
+  rotate: true
+  xy: 1514, 77
+  size: 37, 144
+  orig: 37, 144
+  offset: 0, 0
+  index: -1
+音乐/q3
+  rotate: true
+  xy: 1525, 116
+  size: 27, 145
+  orig: 27, 145
+  offset: 0, 0
+  index: -1
+音乐/吉他
+  rotate: false
+  xy: 2, 473
+  size: 272, 291
+  orig: 272, 291
+  offset: 0, 0
+  index: -1
+音乐/吉他 d
+  rotate: true
+  xy: 2, 165
+  size: 306, 253
+  orig: 306, 253
+  offset: 0, 0
+  index: -1
+音乐/墨镜
+  rotate: false
+  xy: 1157, 688
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+音乐/墨镜 d
+  rotate: false
+  xy: 1672, 67
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+音乐/外套 d
+  rotate: false
+  xy: 1377, 300
+  size: 195, 152
+  orig: 195, 152
+  offset: 0, 0
+  index: -1
+音乐/外套 前
+  rotate: false
+  xy: 1379, 454
+  size: 144, 228
+  orig: 144, 228
+  offset: 0, 0
+  index: -1
+音乐/外套 后
+  rotate: false
+  xy: 491, 19
+  size: 59, 210
+  orig: 59, 210
+  offset: 0, 0
+  index: -1
+音乐/帽子带耳机
+  rotate: true
+  xy: 1574, 319
+  size: 160, 137
+  orig: 160, 137
+  offset: 0, 0
+  index: -1
+音乐/帽子带耳机 d
+  rotate: false
+  xy: 552, 114
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+音乐/手 后
+  rotate: true
+  xy: 1303, 180
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+音乐/耳机 后
+  rotate: true
+  xy: 1834, 238
+  size: 48, 53
+  orig: 52, 57
+  offset: 2, 2
+  index: -1

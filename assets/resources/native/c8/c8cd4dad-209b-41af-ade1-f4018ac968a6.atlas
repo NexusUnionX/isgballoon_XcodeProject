@@ -1,0 +1,20 @@
+
+tishi.png
+size: 845,455
+format: RGBA8888
+filter: Nearest,MipMap
+repeat: none
+g1
+  rotate: false
+  xy: 2, 2
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 455, 65
+  size: 388, 388
+  orig: 440, 440
+  offset: 26, 26
+  index: -1

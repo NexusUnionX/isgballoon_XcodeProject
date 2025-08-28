@@ -1,0 +1,153 @@
+
+che.png
+size: 903,528
+format: RGBA8888
+filter: Nearest,MipMap
+repeat: none
+c1
+  rotate: true
+  xy: 359, 338
+  size: 188, 176
+  orig: 188, 176
+  offset: 0, 0
+  index: -1
+c10
+  rotate: true
+  xy: 179, 338
+  size: 188, 178
+  orig: 188, 178
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 350, 148
+  size: 188, 177
+  orig: 188, 177
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 2, 336
+  size: 190, 175
+  orig: 190, 175
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 177, 144
+  size: 190, 171
+  orig: 190, 171
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 713, 354
+  size: 188, 172
+  orig: 188, 172
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 713, 182
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 707, 10
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1
+c8
+  rotate: true
+  xy: 2, 144
+  size: 190, 173
+  orig: 190, 173
+  offset: 0, 0
+  index: -1
+c9
+  rotate: true
+  xy: 537, 338
+  size: 188, 174
+  orig: 188, 174
+  offset: 0, 0
+  index: -1
+ds
+  rotate: true
+  xy: 256, 2
+  size: 56, 36
+  orig: 60, 40
+  offset: 2, 2
+  index: -1
+h1
+  rotate: true
+  xy: 529, 148
+  size: 188, 176
+  orig: 188, 176
+  offset: 0, 0
+  index: -1
+jshz
+  rotate: true
+  xy: 2, 53
+  size: 89, 23
+  orig: 93, 27
+  offset: 2, 2
+  index: -1
+xwq_00000
+  rotate: false
+  xy: 27, 58
+  size: 51, 84
+  orig: 100, 100
+  offset: 23, 9
+  index: -1
+xwq_00002
+  rotate: false
+  xy: 80, 58
+  size: 50, 84
+  orig: 100, 100
+  offset: 23, 9
+  index: -1
+xwq_00004
+  rotate: true
+  xy: 86, 6
+  size: 50, 84
+  orig: 100, 100
+  offset: 23, 9
+  index: -1
+xwq_00005
+  rotate: false
+  xy: 132, 58
+  size: 46, 84
+  orig: 100, 100
+  offset: 26, 9
+  index: -1
+xwq_00007
+  rotate: false
+  xy: 180, 58
+  size: 46, 84
+  orig: 100, 100
+  offset: 26, 9
+  index: -1
+xwq_00009
+  rotate: false
+  xy: 228, 60
+  size: 48, 82
+  orig: 100, 100
+  offset: 25, 10
+  index: -1
+xwq_00010
+  rotate: true
+  xy: 2, 2
+  size: 49, 82
+  orig: 100, 100
+  offset: 24, 10
+  index: -1
+xwq_00012
+  rotate: true
+  xy: 172, 7
+  size: 49, 82
+  orig: 100, 100
+  offset: 24, 10
+  index: -1

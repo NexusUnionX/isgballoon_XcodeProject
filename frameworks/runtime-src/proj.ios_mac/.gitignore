@@ -1,0 +1,15 @@
+isgballoon.xcodeproj/project.xcworkspace/
+isgballoon.xcodeproj/xcuserdata/
+isgballoon.xcworkspace/xcuserdata/
+isgballoon.xcworkspace/xcshareddata/
+isgballoon.xcworkspace/xcuserdata/
+
+
+Build/
+Pods/
+SGPlayer/
+.DS_Store
+
+
+
+

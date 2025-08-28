@@ -1,0 +1,1581 @@
+
+救大鹅.png
+size: 1063,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+兔子外套/cb
+  rotate: true
+  xy: 504, 377
+  size: 82, 100
+  orig: 83, 101
+  offset: 0, 1
+  index: -1
+兔子外套/cb d
+  rotate: true
+  xy: 910, 238
+  size: 88, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+兔子外套/cb h
+  rotate: true
+  xy: 158, 675
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+兔子外套/d嘴巴
+  rotate: false
+  xy: 539, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+兔子外套/d尾巴
+  rotate: false
+  xy: 905, 73
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+兔子外套/d眼睛
+  rotate: true
+  xy: 867, 18
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+兔子外套/d眼睛后
+  rotate: true
+  xy: 510, 462
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+兔子外套/d腮红
+  rotate: true
+  xy: 935, 852
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+兔子外套/jh
+  rotate: true
+  xy: 860, 182
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+原皮/jh
+  rotate: true
+  xy: 860, 182
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+焦虑鸭/jh
+  rotate: true
+  xy: 860, 182
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+蜜蜂/jh
+  rotate: true
+  xy: 860, 182
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+辣椒/jh
+  rotate: true
+  xy: 860, 182
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+兔子外套/jh d
+  rotate: false
+  xy: 672, 377
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+原皮/jh d
+  rotate: false
+  xy: 672, 377
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+焦虑鸭/jh d
+  rotate: false
+  xy: 672, 377
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+蜜蜂/jh d
+  rotate: false
+  xy: 672, 377
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+辣椒/jh d
+  rotate: false
+  xy: 672, 377
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+兔子外套/jh z
+  rotate: false
+  xy: 710, 350
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+原皮/jh z
+  rotate: false
+  xy: 710, 350
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+焦虑鸭/jh z
+  rotate: false
+  xy: 710, 350
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+蜜蜂/jh z
+  rotate: false
+  xy: 710, 350
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+辣椒/jh z
+  rotate: false
+  xy: 710, 350
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+兔子外套/jq
+  rotate: true
+  xy: 723, 462
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+原皮/jq
+  rotate: true
+  xy: 723, 462
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+焦虑鸭/jq
+  rotate: true
+  xy: 723, 462
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+蜜蜂/jq
+  rotate: true
+  xy: 723, 462
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+辣椒/jq
+  rotate: true
+  xy: 723, 462
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+兔子外套/jq d
+  rotate: false
+  xy: 768, 315
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+原皮/jq d
+  rotate: false
+  xy: 768, 315
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+焦虑鸭/jq d
+  rotate: false
+  xy: 768, 315
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+蜜蜂/jq d
+  rotate: false
+  xy: 768, 315
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+辣椒/jq d
+  rotate: false
+  xy: 768, 315
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+兔子外套/jq z
+  rotate: true
+  xy: 891, 25
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+原皮/jq z
+  rotate: true
+  xy: 891, 25
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+焦虑鸭/jq z
+  rotate: true
+  xy: 891, 25
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+蜜蜂/jq z
+  rotate: true
+  xy: 891, 25
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+辣椒/jq z
+  rotate: true
+  xy: 891, 25
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+兔子外套/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+原皮/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+汉堡/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+焦虑鸭/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+蛋壳/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+蜜蜂/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+辣椒/l1
+  rotate: false
+  xy: 390, 761
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+兔子外套/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+原皮/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+汉堡/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+焦虑鸭/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+蛋壳/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+蜜蜂/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+辣椒/l2
+  rotate: true
+  xy: 639, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+兔子外套/q1
+  rotate: true
+  xy: 952, 828
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+原皮/q1
+  rotate: true
+  xy: 952, 828
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+焦虑鸭/q1
+  rotate: true
+  xy: 952, 828
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+蛋壳/q1
+  rotate: true
+  xy: 952, 828
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+蜜蜂/q1
+  rotate: true
+  xy: 952, 828
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+辣椒/q1
+  rotate: true
+  xy: 952, 828
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+兔子外套/q2
+  rotate: true
+  xy: 771, 871
+  size: 27, 103
+  orig: 27, 103
+  offset: 0, 0
+  index: -1
+原皮/q2
+  rotate: true
+  xy: 771, 871
+  size: 27, 103
+  orig: 27, 103
+  offset: 0, 0
+  index: -1
+焦虑鸭/q2
+  rotate: true
+  xy: 771, 871
+  size: 27, 103
+  orig: 27, 103
+  offset: 0, 0
+  index: -1
+蛋壳/q2
+  rotate: true
+  xy: 771, 871
+  size: 27, 103
+  orig: 27, 103
+  offset: 0, 0
+  index: -1
+蜜蜂/q2
+  rotate: true
+  xy: 771, 871
+  size: 27, 103
+  orig: 27, 103
+  offset: 0, 0
+  index: -1
+辣椒/q2
+  rotate: true
+  xy: 771, 871
+  size: 27, 103
+  orig: 27, 103
+  offset: 0, 0
+  index: -1
+兔子外套/q3
+  rotate: true
+  xy: 771, 842
+  size: 19, 104
+  orig: 19, 104
+  offset: 0, 0
+  index: -1
+原皮/q3
+  rotate: true
+  xy: 771, 842
+  size: 19, 104
+  orig: 19, 104
+  offset: 0, 0
+  index: -1
+焦虑鸭/q3
+  rotate: true
+  xy: 771, 842
+  size: 19, 104
+  orig: 19, 104
+  offset: 0, 0
+  index: -1
+蛋壳/q3
+  rotate: true
+  xy: 771, 842
+  size: 19, 104
+  orig: 19, 104
+  offset: 0, 0
+  index: -1
+蜜蜂/q3
+  rotate: true
+  xy: 771, 842
+  size: 19, 104
+  orig: 19, 104
+  offset: 0, 0
+  index: -1
+辣椒/q3
+  rotate: true
+  xy: 771, 842
+  size: 19, 104
+  orig: 19, 104
+  offset: 0, 0
+  index: -1
+兔子外套/st
+  rotate: true
+  xy: 619, 490
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+原皮/st
+  rotate: true
+  xy: 619, 490
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+汉堡/st
+  rotate: true
+  xy: 619, 490
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+焦虑鸭/st
+  rotate: true
+  xy: 619, 490
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+辣椒/st
+  rotate: true
+  xy: 619, 490
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+兔子外套/st d
+  rotate: true
+  xy: 55, 761
+  size: 269, 128
+  orig: 269, 128
+  offset: 0, 0
+  index: -1
+原皮/st d
+  rotate: true
+  xy: 55, 761
+  size: 269, 128
+  orig: 269, 128
+  offset: 0, 0
+  index: -1
+汉堡/st d
+  rotate: true
+  xy: 55, 761
+  size: 269, 128
+  orig: 269, 128
+  offset: 0, 0
+  index: -1
+焦虑鸭/st d
+  rotate: true
+  xy: 55, 761
+  size: 269, 128
+  orig: 269, 128
+  offset: 0, 0
+  index: -1
+蛋壳/st d
+  rotate: true
+  xy: 55, 761
+  size: 269, 128
+  orig: 269, 128
+  offset: 0, 0
+  index: -1
+兔子外套/t
+  rotate: false
+  xy: 650, 4
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+原皮/t
+  rotate: false
+  xy: 650, 4
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+汉堡/t
+  rotate: false
+  xy: 650, 4
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+焦虑鸭/t
+  rotate: false
+  xy: 650, 4
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+蜜蜂/t
+  rotate: false
+  xy: 650, 4
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+兔子外套/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+原皮/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+汉堡/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+焦虑鸭/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+蛋壳/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+蜜蜂/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+辣椒/yanz d
+  rotate: false
+  xy: 526, 467
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+兔子外套/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+原皮/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+汉堡/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+焦虑鸭/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+蛋壳/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+蜜蜂/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+辣椒/yb d
+  rotate: false
+  xy: 574, 3
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+兔子外套/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+原皮/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+汉堡/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+焦虑鸭/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+蛋壳/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+蜜蜂/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+辣椒/yz
+  rotate: false
+  xy: 771, 996
+  size: 179, 34
+  orig: 179, 35
+  offset: 0, 0
+  index: -1
+兔子外套/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+原皮/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+汉堡/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+焦虑鸭/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+蛋壳/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+蜜蜂/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+辣椒/yz d
+  rotate: true
+  xy: 2, 673
+  size: 357, 51
+  orig: 358, 53
+  offset: 0, 1
+  index: -1
+兔子外套/z
+  rotate: true
+  xy: 390, 772
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+原皮/z
+  rotate: true
+  xy: 390, 772
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+蜜蜂/z
+  rotate: true
+  xy: 390, 772
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+兔子外套/z1
+  rotate: true
+  xy: 877, 841
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+原皮/z1
+  rotate: true
+  xy: 877, 841
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+蜜蜂/z1
+  rotate: true
+  xy: 877, 841
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+兔子外套/zx
+  rotate: true
+  xy: 1003, 217
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+原皮/zx
+  rotate: true
+  xy: 1003, 217
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+焦虑鸭/zx
+  rotate: true
+  xy: 1003, 217
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+蜜蜂/zx
+  rotate: true
+  xy: 1003, 217
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+兔子外套/嘴巴
+  rotate: false
+  xy: 557, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+兔子外套/头套
+  rotate: true
+  xy: 629, 841
+  size: 189, 140
+  orig: 189, 140
+  offset: 0, 0
+  index: -1
+兔子外套/小衣服
+  rotate: false
+  xy: 2, 371
+  size: 220, 300
+  orig: 220, 300
+  offset: 0, 0
+  index: -1
+兔子外套/尾巴
+  rotate: false
+  xy: 762, 2
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+兔子外套/眼睛后
+  rotate: false
+  xy: 912, 379
+  size: 27, 38
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+兔子外套/眼睛大
+  rotate: false
+  xy: 860, 207
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+兔子外套/衣服
+  rotate: true
+  xy: 952, 863
+  size: 167, 108
+  orig: 167, 108
+  offset: 0, 0
+  index: -1
+原皮/cb
+  rotate: true
+  xy: 224, 371
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+汉堡/cb
+  rotate: true
+  xy: 224, 371
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+焦虑鸭/cb
+  rotate: true
+  xy: 224, 371
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+原皮/cb d
+  rotate: false
+  xy: 952, 727
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+焦虑鸭/cb d
+  rotate: false
+  xy: 952, 727
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+蛋壳/cb d
+  rotate: false
+  xy: 952, 727
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+原皮/cb h
+  rotate: true
+  xy: 952, 778
+  size: 48, 101
+  orig: 48, 101
+  offset: 0, 0
+  index: -1
+汉堡/cb h
+  rotate: true
+  xy: 952, 778
+  size: 48, 101
+  orig: 48, 101
+  offset: 0, 0
+  index: -1
+焦虑鸭/cb h
+  rotate: true
+  xy: 952, 778
+  size: 48, 101
+  orig: 48, 101
+  offset: 0, 0
+  index: -1
+原皮/dm
+  rotate: false
+  xy: 985, 75
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+汉堡/dm
+  rotate: false
+  xy: 985, 75
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+原皮/dm d
+  rotate: false
+  xy: 960, 3
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+汉堡/dm d
+  rotate: false
+  xy: 960, 3
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+蛋壳/dm d
+  rotate: false
+  xy: 960, 3
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+原皮/yanz
+  rotate: false
+  xy: 920, 877
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+汉堡/yanz
+  rotate: false
+  xy: 920, 877
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+焦虑鸭/yanz
+  rotate: false
+  xy: 920, 877
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+蛋壳/yanz
+  rotate: false
+  xy: 920, 877
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+蜜蜂/yanz
+  rotate: false
+  xy: 920, 877
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+辣椒/yanz
+  rotate: false
+  xy: 920, 877
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+原皮/yb
+  rotate: true
+  xy: 920, 844
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+汉堡/yb
+  rotate: true
+  xy: 920, 844
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+焦虑鸭/yb
+  rotate: true
+  xy: 920, 844
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+蛋壳/yb
+  rotate: true
+  xy: 920, 844
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+蜜蜂/yb
+  rotate: true
+  xy: 920, 844
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+辣椒/yb
+  rotate: true
+  xy: 920, 844
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+汉堡/jh
+  rotate: true
+  xy: 860, 157
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+汉堡/jh d
+  rotate: true
+  xy: 710, 166
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+汉堡/jh z
+  rotate: false
+  xy: 710, 323
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+汉堡/jq
+  rotate: true
+  xy: 723, 434
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+汉堡/jq d
+  rotate: true
+  xy: 865, 263
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+汉堡/jq z
+  rotate: true
+  xy: 918, 31
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+汉堡/z
+  rotate: true
+  xy: 672, 424
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+汉堡/z1
+  rotate: false
+  xy: 910, 195
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+汉堡/zx
+  rotate: true
+  xy: 854, 112
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+汉堡/一层
+  rotate: false
+  xy: 669, 679
+  size: 94, 160
+  orig: 94, 160
+  offset: 0, 0
+  index: -1
+汉堡/底层
+  rotate: false
+  xy: 476, 159
+  size: 108, 211
+  orig: 108, 211
+  offset: 0, 0
+  index: -1
+汉堡/汉堡一层
+  rotate: false
+  xy: 780, 606
+  size: 170, 72
+  orig: 170, 72
+  offset: 0, 0
+  index: -1
+汉堡/汉堡底层
+  rotate: true
+  xy: 407, 461
+  size: 213, 101
+  orig: 213, 101
+  offset: 0, 0
+  index: -1
+汉堡/汉堡肉
+  rotate: false
+  xy: 248, 676
+  size: 195, 83
+  orig: 195, 83
+  offset: 0, 0
+  index: -1
+汉堡/汉堡芝士
+  rotate: true
+  xy: 539, 839
+  size: 191, 88
+  orig: 191, 88
+  offset: 0, 0
+  index: -1
+汉堡/汉堡菜1
+  rotate: true
+  xy: 448, 838
+  size: 192, 89
+  orig: 193, 89
+  offset: 1, 0
+  index: -1
+汉堡/汉堡菜2
+  rotate: true
+  xy: 370, 155
+  size: 215, 104
+  orig: 215, 104
+  offset: 0, 0
+  index: -1
+汉堡/肉
+  rotate: false
+  xy: 510, 484
+  size: 107, 190
+  orig: 107, 190
+  offset: 0, 0
+  index: -1
+汉堡/芝士
+  rotate: true
+  xy: 2, 2
+  size: 117, 177
+  orig: 117, 177
+  offset: 0, 0
+  index: -1
+汉堡/菜1
+  rotate: false
+  xy: 941, 384
+  size: 120, 181
+  orig: 120, 181
+  offset: 0, 0
+  index: -1
+汉堡/菜2
+  rotate: false
+  xy: 586, 166
+  size: 122, 209
+  orig: 122, 209
+  offset: 0, 0
+  index: -1
+焦虑鸭/dm
+  rotate: false
+  xy: 920, 892
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+焦虑鸭/dm d
+  rotate: false
+  xy: 945, 33
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+焦虑鸭/z
+  rotate: false
+  xy: 794, 219
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+焦虑鸭/z1
+  rotate: false
+  xy: 910, 152
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+焦虑鸭/香蕉
+  rotate: false
+  xy: 263, 3
+  size: 160, 142
+  orig: 160, 142
+  offset: 0, 0
+  index: -1
+焦虑鸭/香蕉后
+  rotate: true
+  xy: 1002, 154
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+焦虑鸭/香蕉皮前
+  rotate: true
+  xy: 2, 121
+  size: 248, 222
+  orig: 248, 222
+  offset: 0, 0
+  index: -1
+焦虑鸭/香蕉皮后
+  rotate: true
+  xy: 606, 378
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+蛋壳/jh
+  rotate: false
+  xy: 842, 17
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+蛋壳/jh d
+  rotate: true
+  xy: 752, 166
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+蛋壳/jh z
+  rotate: false
+  xy: 710, 296
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+蛋壳/jq
+  rotate: true
+  xy: 710, 268
+  size: 26, 55
+  orig: 27, 65
+  offset: 1, 10
+  index: -1
+蛋壳/jq d
+  rotate: false
+  xy: 768, 270
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+蛋壳/jq z
+  rotate: false
+  xy: 918, 4
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+蛋壳/st
+  rotate: false
+  xy: 765, 680
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+蛋壳/t
+  rotate: false
+  xy: 445, 676
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+蛋壳/z
+  rotate: false
+  xy: 794, 168
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+蛋壳/z1
+  rotate: false
+  xy: 762, 123
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+蛋壳/zx
+  rotate: true
+  xy: 1002, 109
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+蛋壳/帽子
+  rotate: false
+  xy: 320, 372
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+蛋壳/帽子1
+  rotate: true
+  xy: 181, 3
+  size: 116, 80
+  orig: 116, 80
+  offset: 0, 0
+  index: -1
+蛋壳/蛋壳
+  rotate: true
+  xy: 315, 838
+  size: 192, 131
+  orig: 192, 131
+  offset: 0, 0
+  index: -1
+蛋壳/蛋壳d
+  rotate: false
+  xy: 425, 5
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+蜜蜂/cb
+  rotate: false
+  xy: 539, 16
+  size: 106, 141
+  orig: 106, 142
+  offset: 0, 1
+  index: -1
+蜜蜂/cb d
+  rotate: false
+  xy: 771, 900
+  size: 103, 94
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+蜜蜂/cb h
+  rotate: true
+  xy: 769, 360
+  size: 57, 141
+  orig: 57, 142
+  offset: 0, 1
+  index: -1
+蜜蜂/st
+  rotate: true
+  xy: 780, 419
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+蜜蜂/st d
+  rotate: true
+  xy: 185, 761
+  size: 269, 128
+  orig: 269, 128
+  offset: 0, 0
+  index: -1
+蜜蜂/杆
+  rotate: true
+  xy: 606, 4
+  size: 10, 31
+  orig: 11, 31
+  offset: 1, 0
+  index: -1
+蜜蜂/棍左
+  rotate: true
+  xy: 606, 4
+  size: 10, 31
+  orig: 11, 31
+  offset: 1, 0
+  index: -1
+蜜蜂/杆1
+  rotate: false
+  xy: 998, 7
+  size: 23, 25
+  orig: 25, 27
+  offset: 1, 1
+  index: -1
+蜜蜂/棍右
+  rotate: true
+  xy: 226, 122
+  size: 23, 29
+  orig: 23, 30
+  offset: 0, 1
+  index: -1
+蜜蜂/球
+  rotate: false
+  xy: 1023, 71
+  size: 36, 36
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+蜜蜂/球左
+  rotate: false
+  xy: 1023, 71
+  size: 36, 36
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+蜜蜂/球1
+  rotate: true
+  xy: 979, 34
+  size: 37, 36
+  orig: 37, 37
+  offset: 0, 1
+  index: -1
+蜜蜂/球右
+  rotate: true
+  xy: 979, 34
+  size: 37, 36
+  orig: 37, 37
+  offset: 0, 1
+  index: -1
+蜜蜂/翅膀后
+  rotate: false
+  xy: 315, 762
+  size: 73, 74
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+辣椒/cb
+  rotate: true
+  xy: 409, 372
+  size: 87, 93
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+辣椒/cb d
+  rotate: false
+  xy: 912, 328
+  size: 133, 49
+  orig: 134, 49
+  offset: 0, 0
+  index: -1
+辣椒/st d
+  rotate: true
+  xy: 952, 567
+  size: 158, 97
+  orig: 158, 97
+  offset: 0, 0
+  index: -1
+辣椒/t
+  rotate: false
+  xy: 557, 677
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+辣椒/z
+  rotate: true
+  xy: 1003, 262
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+辣椒/z1
+  rotate: false
+  xy: 762, 80
+  size: 90, 41
+  orig: 91, 41
+  offset: 1, 0
+  index: -1
+辣椒/zx
+  rotate: true
+  xy: 854, 67
+  size: 43, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+辣椒/帽子
+  rotate: false
+  xy: 877, 933
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+辣椒/帽子1
+  rotate: false
+  xy: 55, 673
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+辣椒/辣椒
+  rotate: true
+  xy: 224, 441
+  size: 232, 181
+  orig: 232, 182
+  offset: 0, 0
+  index: -1
+辣椒/辣椒d
+  rotate: true
+  xy: 226, 147
+  size: 222, 142
+  orig: 222, 142
+  offset: 0, 0
+  index: -1

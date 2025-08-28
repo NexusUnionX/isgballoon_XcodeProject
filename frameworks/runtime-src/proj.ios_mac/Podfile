@@ -1,0 +1,41 @@
+platform :ios, '14.0'
+source 'https://github.com/CocoaPods/Specs.git'  # 官方库
+#source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git' #清华源（可以pod repo update）
+inhibit_all_warnings!
+
+
+target 'isgballoon-mobile' do
+  
+  #use_modular_headers跟use_frameworks，只能二选一
+  #  use_frameworks! #全 Swift 项目，编译为一个独立的 动态 framework
+    use_modular_headers! #全 ObjC，或对启动速度要求极高，以 静态库 编译
+  
+  pod 'AFNetworking', '4.0.0'
+  pod 'YYModel'
+  
+  # 添加 MobileVLCKit
+  pod 'MobileVLCKit'
+  # 添加 IJKMediaFramework
+  pod 'IJKMediaFramework'
+  
+  # 添加神策数据 iOS SDK
+  pod 'SensorsAnalyticsSDK'
+  
+end
+
+# 处理三方库编译设置
+#post_install do |installer_representation|
+#  installer_representation.pods_project.targets.each do |target|
+#    if target.platform_name == :ios then
+#      target.build_configurations.each do |config|
+#        config.build_settings['VALID_ARCHS'] = 'x86_64 arm64 arm64e'
+#        config.build_settings['EXCLUDED_ARCHS'] = 'armv7 armv7s i386'
+#        config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+#        config.build_settings["EXCLUDED_ARCHS[sdk=iphonesimulator*]"] = "i386 arm64"
+#        config.build_settings["DEVELOPMENT_TEAM"] = "TeamID"
+#        config.build_settings['CODE_SIGNING_ALLOWED'] = 'NO'
+#      end
+#    end
+#  end
+#end
+
