@@ -120,6 +120,26 @@
 		CEAFCF542E60766000ACC509 /* ISgballoonBunchup.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAFCEFC2E60766000ACC509 /* ISgballoonBunchup.m */; };
 		CEAFCF5F2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */; };
 		CEAFCF602E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */; };
+		CEE395852E618B1D00CE1898 /* CrazyBalloonPopping5.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395832E618B1D00CE1898 /* CrazyBalloonPopping5.png */; };
+		CEE395862E618B1D00CE1898 /* CrazyBalloonPopping3.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395812E618B1D00CE1898 /* CrazyBalloonPopping3.png */; };
+		CEE395872E618B1D00CE1898 /* CrazyBalloonPopping4.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395822E618B1D00CE1898 /* CrazyBalloonPopping4.png */; };
+		CEE395882E618B1D00CE1898 /* CrazyBalloonPopping1.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE3957F2E618B1D00CE1898 /* CrazyBalloonPopping1.png */; };
+		CEE395892E618B1D00CE1898 /* CrazyBalloonPopping2.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395802E618B1D00CE1898 /* CrazyBalloonPopping2.png */; };
+		CEE3958A2E618B1D00CE1898 /* CrazyBalloonPopping5.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395832E618B1D00CE1898 /* CrazyBalloonPopping5.png */; };
+		CEE3958B2E618B1D00CE1898 /* CrazyBalloonPopping3.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395812E618B1D00CE1898 /* CrazyBalloonPopping3.png */; };
+		CEE3958C2E618B1D00CE1898 /* CrazyBalloonPopping4.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395822E618B1D00CE1898 /* CrazyBalloonPopping4.png */; };
+		CEE3958D2E618B1D00CE1898 /* CrazyBalloonPopping1.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE3957F2E618B1D00CE1898 /* CrazyBalloonPopping1.png */; };
+		CEE3958E2E618B1D00CE1898 /* CrazyBalloonPopping2.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE395802E618B1D00CE1898 /* CrazyBalloonPopping2.png */; };
+		CEE395942E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395902E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 */; };
+		CEE395952E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395912E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 */; };
+		CEE395962E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395922E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 */; };
+		CEE395972E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395932E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 */; };
+		CEE395982E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE3958F2E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 */; };
+		CEE395992E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395902E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 */; };
+		CEE3959A2E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395912E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 */; };
+		CEE3959B2E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395922E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 */; };
+		CEE3959C2E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE395932E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 */; };
+		CEE3959D2E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEE3958F2E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 */; };
 		D454520C156E22BD00887EB5 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D454520B156E22BD00887EB5 /* libz.dylib */; };
 		D4545227156E28EF00887EB5 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4545215156E28EF00887EB5 /* AppDelegate.cpp */; };
 		D6B061241803AB9F0077942B /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6B061231803AB9F0077942B /* CoreMotion.framework */; };
@@ -323,6 +343,16 @@
 		CEAFCF292E60766000ACC509 /* ISgballoonIndustrialise.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ISgballoonIndustrialise.m; sourceTree = "<group>"; };
 		CEAFCF2A2E60766000ACC509 /* ISgballoonSensitise.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISgballoonSensitise.h; sourceTree = "<group>"; };
 		CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-bg.mp3"; sourceTree = "<group>"; };
+		CEE3957F2E618B1D00CE1898 /* CrazyBalloonPopping1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrazyBalloonPopping1.png; sourceTree = "<group>"; };
+		CEE395802E618B1D00CE1898 /* CrazyBalloonPopping2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrazyBalloonPopping2.png; sourceTree = "<group>"; };
+		CEE395812E618B1D00CE1898 /* CrazyBalloonPopping3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrazyBalloonPopping3.png; sourceTree = "<group>"; };
+		CEE395822E618B1D00CE1898 /* CrazyBalloonPopping4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrazyBalloonPopping4.png; sourceTree = "<group>"; };
+		CEE395832E618B1D00CE1898 /* CrazyBalloonPopping5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrazyBalloonPopping5.png; sourceTree = "<group>"; };
+		CEE3958F2E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-mp3_1.mp3"; sourceTree = "<group>"; };
+		CEE395902E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-mp3_2.mp3"; sourceTree = "<group>"; };
+		CEE395912E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-mp3_3.mp3"; sourceTree = "<group>"; };
+		CEE395922E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-mp3_4.mp3"; sourceTree = "<group>"; };
+		CEE395932E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CrazyBalloonPopping-mp3_5.mp3"; sourceTree = "<group>"; };
 		D454520B156E22BD00887EB5 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		D4545215156E28EF00887EB5 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AppDelegate.cpp; sourceTree = "<group>"; };
 		D4545216156E28EF00887EB5 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -404,6 +434,7 @@
 		15628F5B15F0F5C2000CF24B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CEE395842E618B1D00CE1898 /* CrazyBalloonPopping-img */,
 				CEAFCEB32E60751F00ACC509 /* Audio */,
 				4033CDBF20E493CF00DAA37B /* jsb-adapter */,
 				1A1A081B18C9DF05005C6854 /* project.json */,
@@ -535,6 +566,11 @@
 			isa = PBXGroup;
 			children = (
 				CEAFCF5E2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 */,
+				CEE3958F2E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 */,
+				CEE395902E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 */,
+				CEE395912E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 */,
+				CEE395922E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 */,
+				CEE395932E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 */,
 			);
 			name = Audio;
 			path = ios/Audio;
@@ -872,6 +908,19 @@
 			path = ios/ISGBALLOON;
 			sourceTree = "<group>";
 		};
+		CEE395842E618B1D00CE1898 /* CrazyBalloonPopping-img */ = {
+			isa = PBXGroup;
+			children = (
+				CEE3957F2E618B1D00CE1898 /* CrazyBalloonPopping1.png */,
+				CEE395802E618B1D00CE1898 /* CrazyBalloonPopping2.png */,
+				CEE395812E618B1D00CE1898 /* CrazyBalloonPopping3.png */,
+				CEE395822E618B1D00CE1898 /* CrazyBalloonPopping4.png */,
+				CEE395832E618B1D00CE1898 /* CrazyBalloonPopping5.png */,
+			);
+			name = "CrazyBalloonPopping-img";
+			path = "ios/CrazyBalloonPopping-img";
+			sourceTree = "<group>";
+		};
 		D45446CC156DE73F00887EB5 /* ios */ = {
 			isa = PBXGroup;
 			children = (
@@ -1020,8 +1069,18 @@
 				1AD7E0A918C9DBE3004817A6 /* main.js in Resources */,
 				4033CDC120E493CF00DAA37B /* jsb-adapter in Resources */,
 				CEAFCF5F2E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */,
+				CEE395992E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 in Resources */,
+				CEE3959A2E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 in Resources */,
+				CEE3959B2E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 in Resources */,
+				CEE3959C2E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 in Resources */,
+				CEE3959D2E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 in Resources */,
 				509D4ACF17EBB2BE00697056 /* Icon.icns in Resources */,
 				C03780EC18BEE0E400FE4F13 /* src in Resources */,
+				CEE3958A2E618B1D00CE1898 /* CrazyBalloonPopping5.png in Resources */,
+				CEE3958B2E618B1D00CE1898 /* CrazyBalloonPopping3.png in Resources */,
+				CEE3958C2E618B1D00CE1898 /* CrazyBalloonPopping4.png in Resources */,
+				CEE3958D2E618B1D00CE1898 /* CrazyBalloonPopping1.png in Resources */,
+				CEE3958E2E618B1D00CE1898 /* CrazyBalloonPopping2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1032,11 +1091,21 @@
 				288D4373225B43BE0075FBAB /* assets in Resources */,
 				4033CDC020E493CF00DAA37B /* jsb-adapter in Resources */,
 				1AFFCD871F7A5DCF00628F2C /* LaunchScreenBackground.png in Resources */,
+				CEE395942E618B9800CE1898 /* CrazyBalloonPopping-mp3_2.mp3 in Resources */,
+				CEE395952E618B9800CE1898 /* CrazyBalloonPopping-mp3_3.mp3 in Resources */,
+				CEE395962E618B9800CE1898 /* CrazyBalloonPopping-mp3_4.mp3 in Resources */,
+				CEE395972E618B9800CE1898 /* CrazyBalloonPopping-mp3_5.mp3 in Resources */,
+				CEE395982E618B9800CE1898 /* CrazyBalloonPopping-mp3_1.mp3 in Resources */,
 				CEAFCF602E607AA500ACC509 /* CrazyBalloonPopping-bg.mp3 in Resources */,
 				1AE159EC18C9DF3600FCA372 /* project.json in Resources */,
 				1AD7E0A818C9DB93004817A6 /* main.js in Resources */,
 				40CEC429212BDB03004BCE66 /* Localizable.strings in Resources */,
 				1AFFCD851F7A5DCF00628F2C /* Images.xcassets in Resources */,
+				CEE395852E618B1D00CE1898 /* CrazyBalloonPopping5.png in Resources */,
+				CEE395862E618B1D00CE1898 /* CrazyBalloonPopping3.png in Resources */,
+				CEE395872E618B1D00CE1898 /* CrazyBalloonPopping4.png in Resources */,
+				CEE395882E618B1D00CE1898 /* CrazyBalloonPopping1.png in Resources */,
+				CEE395892E618B1D00CE1898 /* CrazyBalloonPopping2.png in Resources */,
 				40CEC422212BDAB0004BCE66 /* LaunchScreen.storyboard in Resources */,
 				C03780EB18BEE0E400FE4F13 /* src in Resources */,
 			);
